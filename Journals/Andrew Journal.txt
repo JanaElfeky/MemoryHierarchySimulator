@@ -1,0 +1,10 @@
+May 2, 9:00AM: Discussed project requirements and planned the implementation with team members.
+May 6, 11:15AM: Implemented the Cache constructor and destructor.
+May 8, 1:45PM: Worked on reading input from the file in the processAccesses function.
+May 10, 3:20PM: Developed the logic for handling write-through and write-back policies in the accessCache function.
+May 12, 10:30AM: Added handling for write-back policy.
+May 13, 2:10PM: Collaborated with Alice to test and debug the tag comparison function.
+May 14, 4:00PM: Improved the printStats function to include hit and miss ratios.
+May 15, 3:45PM: Worked on optimizing the cache access time calculation in printStats.
+May 16, 1:00PM: Reviewed and tested the program with different cache configurations.
+May 17, 11:00AM: Documented the code and added comments for better understanding.

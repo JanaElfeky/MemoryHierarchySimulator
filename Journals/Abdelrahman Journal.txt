@@ -1,0 +1,10 @@
+May 3, 9:30AM: Conducted initial research on cache memory and direct mapping techniques.
+May 4, 3:00PM: Created enums for AccessType and WritePolicy.
+May 6, 11:45AM: Developed the main function to gather user input for cache parameters.
+May 9, 1:30PM: Implemented logic to parse access sequences from the file in the processAccesses function.
+May 11, 10:15AM: Enhanced accessCache function to include statistics tracking.
+May 12, 2:20PM: Debugged issues with cache line index calculation.
+May 14, 12:00PM: Integrated printCacheState and printStats functions for better output readability.
+May 15, 2:30PM: Tested the program with multiple access sequences to ensure correctness.
+May 16, 9:45AM: Worked with Bob to optimize memory access time calculations.
+May 17, 3:15PM: Finalized the program and prepared the documentation for submission.

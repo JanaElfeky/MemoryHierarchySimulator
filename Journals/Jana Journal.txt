@@ -1,0 +1,10 @@
+May 2, 10:20AM: Set up the initial project structure and created the basic skeleton of the program.
+May 5, 2:45PM: Implemented the CacheLine and Cache structs.
+May 7, 9:15AM: Worked on the getLineIndex and getTag helper functions.
+May 9, 1:55PM: Implemented a function to compare the tag of a memory address with that of a cache entry.
+May 11, 11:30AM: Developed the accessCache function to handle read and write operations.
+May 13, 3:00PM: Added printCacheState function to display the current cache state.
+May 14, 2:00PM: Created the printStats function to calculate and display cache statistics.
+May 15, 10:00AM: Worked on the processAccesses function to read access sequences from a file.
+May 16, 4:30PM: Tested the entire program with sample input sequences.
+May 17, 11:00AM: Debugged issues related to cache hit and miss handling.
